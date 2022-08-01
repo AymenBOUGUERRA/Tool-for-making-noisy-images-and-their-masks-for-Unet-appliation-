@@ -1,0 +1,2 @@
+# Tool-for-making-noisy-images-and-their-masks-for-Unet-appliation-
+While working on a Unet project, I created a program that can be used to add noise, a random grid (textbook)  and a random shade of grey , this tool will output (depending on witch variation) combinations of two images  the noisy image ut self and the clear one for the first variation (this one gave better results with Unet application) while the second variation will output the noisy image and the noise as its mask
